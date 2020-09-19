@@ -138,7 +138,14 @@ iframe {
 	max-width: 1200px;
 }
 
-
+.scratch{
+  color: #FFB607;
+  border: 1px solid black;
+  display: inline-block;
+  border-radius: 10px;
+  background-color: black;
+  padding: 3px;
+}
 
 
 
